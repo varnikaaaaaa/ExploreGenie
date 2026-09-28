@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Hyderabad", "country": "India", "tags": ["City", "Culture", "Food"],
+    "tagline": "The City of Pearls: Nizam-era heritage and legendary biryani",
+    "description": "Hyderabad blends Qutb Shahi and Nizam-era history with a modern tech city. It is famous for its forts, palaces, bazaars and Hyderabadi cuisine.",
+    "best_time": "October to February", "budget_level": "Budget to Medium", "ideal_days": "3-4", "cover_wiki": "Charminar",
+    "places": [
+      {"name": "Charminar", "wiki": "Charminar", "area": "Old City", "desc": "The 16th-century monument with four minarets, surrounded by the busy Laad Bazaar for bangles and pearls."},
+      {"name": "Golconda Fort", "wiki": "Golconda Fort", "area": "Western Hyderabad", "desc": "A grand hill fort of the Qutb Shahi dynasty, known for its acoustics and evening sound-and-light show."},
+      {"name": "Hussain Sagar", "wiki": "Hussain Sagar", "area": "Tank Bund", "desc": "A large lake with a giant Buddha statue on an island. Good for a boat ride and an evening walk."},
+      {"name": "Chowmahalla Palace", "wiki": "Chowmahalla Palace", "area": "Old City", "desc": "The palace of the Nizams, with beautiful courtyards, halls and a vintage car collection."},
+      {"name": "Salar Jung Museum", "wiki": "Salar Jung Museum", "area": "Old City", "desc": "One of India's largest one-man art collections, with sculptures, manuscripts and clocks from around the world."},
+      {"name": "Ramoji Film City", "wiki": "Ramoji Film City", "area": "City outskirts", "desc": "A huge film studio complex with guided tours, sets, shows and rides. Plan a full day."}
+    ],
+    "restaurants": [
+      {"name": "Paradise Biryani", "area": "Secunderabad", "cuisine": "Hyderabadi", "known_for": "Iconic Hyderabadi dum biryani.", "dish_wiki": "Hyderabadi biryani"},
+      {"name": "Bawarchi", "area": "RTC X Roads", "cuisine": "Hyderabadi", "known_for": "Popular biryani and kebabs.", "dish_wiki": "Kebab"},
+      {"name": "Pista House", "area": "Near Charminar", "cuisine": "Hyderabadi", "known_for": "Famous for haleem, especially in Ramzan season.", "dish_wiki": "Haleem"},
+      {"name": "Nimrah Cafe & Bakery", "area": "Near Charminar", "cuisine": "Irani cafe", "known_for": "Irani chai with Osmania biscuits.", "dish_wiki": "Irani chai"},
+      {"name": "Chutneys", "area": "Banjara Hills", "cuisine": "South Indian", "known_for": "Idli, dosa and a wide range of chutneys.", "dish_wiki": "Dosa"}
+    ]
+  },
+  {
+    "name": "Delhi", "country": "India", "tags": ["City", "Culture", "Food"],
+    "tagline": "Mughal monuments, bustling markets and street food",
+    "description": "India's capital mixes centuries of history with modern life. Old Delhi is for food and bazaars, New Delhi for monuments and museums.",
+    "best_time": "October to March", "budget_level": "Medium", "ideal_days": "3-4", "cover_wiki": "India Gate",
+    "places": [
+      {"name": "Red Fort", "wiki": "Red Fort", "area": "Old Delhi", "desc": "The 17th-century Mughal fort and a UNESCO World Heritage Site."},
+      {"name": "India Gate", "wiki": "India Gate", "area": "Central Delhi", "desc": "A war memorial arch, lovely in the evening when it is lit up."},
+      {"name": "Qutb Minar", "wiki": "Qutb Minar", "area": "Mehrauli", "desc": "A towering medieval minaret surrounded by ancient ruins."},
+      {"name": "Humayun's Tomb", "wiki": "Humayun's Tomb", "area": "Nizamuddin", "desc": "A garden tomb that inspired later Mughal architecture, including the Taj Mahal."},
+      {"name": "Lotus Temple", "wiki": "Lotus Temple", "area": "South Delhi", "desc": "A flower-shaped Bahai house of worship, open to visitors of all faiths."}
+    ],
+    "restaurants": [
+      {"name": "Karim's", "area": "Near Jama Masjid", "cuisine": "Mughlai", "known_for": "Old Delhi classic for kebabs and curries.", "dish_wiki": "Nihari"},
+      {"name": "Paranthe Wali Gali", "area": "Chandni Chowk", "cuisine": "North Indian", "known_for": "A lane of shops famous for stuffed parathas.", "dish_wiki": "Paratha"},
+      {"name": "Bukhara", "area": "Chanakyapuri", "cuisine": "North-West Frontier", "known_for": "Fine dining known for its rich dal and tandoori dishes.", "dish_wiki": "Dal makhani"}
+    ]
+  },
+  {
+    "name": "Mumbai", "country": "India", "tags": ["City", "Food"],
+    "tagline": "The city that never sleeps: sea, cinema and street food",
+    "description": "Mumbai is India's financial capital, with colonial architecture, a long seafront and a famous food scene.",
+    "best_time": "November to February", "budget_level": "Medium", "ideal_days": "3-4", "cover_wiki": "Gateway of India",
+    "places": [
+      {"name": "Gateway of India", "wiki": "Gateway of India", "area": "Colaba", "desc": "The waterfront arch monument and a starting point for harbour boat rides."},
+      {"name": "Marine Drive", "wiki": "Marine Drive, Mumbai", "area": "South Mumbai", "desc": "A curved seaside promenade, perfect for sunset walks."},
+      {"name": "Elephanta Caves", "wiki": "Elephanta Caves", "area": "Elephanta Island", "desc": "Ancient rock-cut cave temples reached by a ferry from the Gateway of India."},
+      {"name": "Chhatrapati Shivaji Terminus", "wiki": "Chhatrapati Shivaji Terminus", "area": "Fort", "desc": "A Victorian Gothic railway station and UNESCO World Heritage Site."},
+      {"name": "Haji Ali Dargah", "wiki": "Haji Ali Dargah", "area": "Worli", "desc": "A mosque and tomb on an islet, reached by a causeway at low tide."}
+    ],
+    "restaurants": [
+      {"name": "Britannia & Co.", "area": "Ballard Estate", "cuisine": "Parsi", "known_for": "Well known for its berry pulao and Parsi dishes.", "dish_wiki": "Pulao"},
+      {"name": "Sardar Pav Bhaji", "area": "Tardeo", "cuisine": "Street food", "known_for": "A long-time favourite for buttery pav bhaji.", "dish_wiki": "Pav bhaji"},
+      {"name": "Kyani & Co.", "area": "Marine Lines", "cuisine": "Irani cafe", "known_for": "A classic Irani cafe for chai and bun maska.", "dish_wiki": "Irani chai"}
+    ]
+  },
+  {
+    "name": "Jaipur", "country": "India", "tags": ["Culture", "Food", "City"],
+    "tagline": "The Pink City of forts, palaces and bazaars",
+    "description": "Jaipur is the gateway to Rajasthan, with hilltop forts, royal palaces and colourful markets selling textiles and jewellery.",
+    "best_time": "October to March", "budget_level": "Medium", "ideal_days": "2-4", "cover_wiki": "Hawa Mahal",
+    "places": [
+      {"name": "Amber Fort", "wiki": "Amer Fort", "area": "Amer", "desc": "A hilltop fort-palace with mirror halls and stunning views."},
+      {"name": "Hawa Mahal", "wiki": "Hawa Mahal", "area": "Old City", "desc": "The 'Palace of Winds' with its honeycomb facade of small windows."},
+      {"name": "City Palace", "wiki": "City Palace, Jaipur", "area": "Old City", "desc": "A palace complex with museums, courtyards and royal collections."},
+      {"name": "Jantar Mantar", "wiki": "Jantar Mantar, Jaipur", "area": "Old City", "desc": "An 18th-century astronomical observatory and UNESCO World Heritage Site."},
+      {"name": "Nahargarh Fort", "wiki": "Nahargarh Fort", "area": "Aravalli Hills", "desc": "A fort with sweeping views of the city, especially good at sunset."}
+    ],
+    "restaurants": [
+      {"name": "Laxmi Misthan Bhandar (LMB)", "area": "Johari Bazaar", "cuisine": "Rajasthani", "known_for": "Traditional sweets and vegetarian Rajasthani meals.", "dish_wiki": "Ghevar"},
+      {"name": "Rawat Mishthan Bhandar", "area": "Station Road", "cuisine": "Rajasthani snacks", "known_for": "Famous for pyaaz kachori.", "dish_wiki": "Kachori"},
+      {"name": "Chokhi Dhani", "area": "Tonk Road", "cuisine": "Rajasthani", "known_for": "Village-themed dinner with folk performances.", "dish_wiki": "Dal baati churma"}
+    ]
+  },
+  {
+    "name": "Goa", "country": "India", "tags": ["Beach", "Food"],
+    "tagline": "Sun, sand and Portuguese heritage",
+    "description": "Goa offers lively beaches in the north, quieter shores in the south, and old churches and forts with a distinct Indo-Portuguese culture.",
+    "best_time": "November to February", "budget_level": "Medium", "ideal_days": "3-5", "cover_wiki": "Fort Aguada",
+    "places": [
+      {"name": "Fort Aguada", "wiki": "Fort Aguada", "area": "Candolim", "desc": "A 17th-century Portuguese fort and lighthouse overlooking the sea."},
+      {"name": "Basilica of Bom Jesus", "wiki": "Basilica of Bom Jesus", "area": "Old Goa", "desc": "A UNESCO World Heritage church holding the relics of St. Francis Xavier."},
+      {"name": "Dudhsagar Falls", "wiki": "Dudhsagar Falls", "area": "Mollem", "desc": "A tall four-tiered waterfall, best seen just after the monsoon."},
+      {"name": "Anjuna", "wiki": "Anjuna", "area": "North Goa", "desc": "A beach village known for its flea market and cafes."},
+      {"name": "Palolem", "wiki": "Palolem", "area": "South Goa", "desc": "A calm crescent beach with a relaxed atmosphere."}
+    ],
+    "restaurants": [
+      {"name": "Britto's", "area": "Baga", "cuisine": "Goan seafood", "known_for": "A beachside favourite for Goan seafood.", "dish_wiki": "Goan fish curry"},
+      {"name": "Vinayak Family Restaurant", "area": "Assagao", "cuisine": "Goan", "known_for": "Home-style Goan seafood dishes.", "dish_wiki": "Vindaloo"},
+      {"name": "Fisherman's Wharf", "area": "Goa", "cuisine": "Goan and seafood", "known_for": "Riverside dining with Goan flavours.", "dish_wiki": "Goan cuisine"}
+    ]
+  },
+  {
+    "name": "Varanasi", "country": "India", "tags": ["Spiritual", "Culture", "Food"],
+    "tagline": "One of the world's oldest living cities on the Ganga",
+    "description": "Varanasi is a major spiritual centre, famous for its ghats, evening aarti, narrow lanes and street food.",
+    "best_time": "October to March", "budget_level": "Budget", "ideal_days": "2-3", "cover_wiki": "Dashashwamedh Ghat",
+    "places": [
+      {"name": "Dashashwamedh Ghat", "wiki": "Dashashwamedh Ghat", "area": "Ganga riverfront", "desc": "The main ghat, known for the grand evening Ganga Aarti."},
+      {"name": "Kashi Vishwanath Temple", "wiki": "Kashi Vishwanath Temple", "area": "Old City", "desc": "One of the most famous Shiva temples in India."},
+      {"name": "Sarnath", "wiki": "Sarnath", "area": "Near Varanasi", "desc": "The place where the Buddha gave his first sermon, with stupas and a museum."},
+      {"name": "Assi Ghat", "wiki": "Assi Ghat", "area": "South Varanasi", "desc": "A lively ghat, popular for sunrise and cultural events."},
+      {"name": "Ramnagar Fort", "wiki": "Ramnagar Fort", "area": "Across the Ganga", "desc": "An 18th-century fort and museum on the eastern bank."}
+    ],
+    "restaurants": [
+      {"name": "Blue Lassi Shop", "area": "Near Manikarnika Ghat", "cuisine": "Beverages", "known_for": "Thick lassi served in clay cups with fruit toppings.", "dish_wiki": "Lassi"},
+      {"name": "Kashi Chaat Bhandar", "area": "Godowlia", "cuisine": "Street food", "known_for": "Local chaat, including tamatar chaat.", "dish_wiki": "Chaat"},
+      {"name": "Kachori Gali stalls", "area": "Chowk", "cuisine": "Street food", "known_for": "Morning kachori-sabzi with jalebi.", "dish_wiki": "Kachori"}
+    ]
+  },
+  {
+    "name": "Manali", "country": "India", "tags": ["Adventure", "Nature", "Mountains"],
+    "tagline": "Himalayan valleys, snow and adventure sports",
+    "description": "Manali sits in the Kullu Valley and is popular for snow, trekking, paragliding and mountain cafes.",
+    "best_time": "March to June, and December to February for snow", "budget_level": "Budget to Medium", "ideal_days": "4-6", "cover_wiki": "Solang Valley",
+    "places": [
+      {"name": "Solang Valley", "wiki": "Solang Valley", "area": "Near Manali", "desc": "A valley for skiing in winter and paragliding in summer."},
+      {"name": "Rohtang Pass", "wiki": "Rohtang Pass", "area": "High mountain pass", "desc": "A high pass with snow views. A permit is required and access depends on the season."},
+      {"name": "Hadimba Temple", "wiki": "Hidimba Devi Temple", "area": "Manali", "desc": "A wooden temple set in a cedar forest."},
+      {"name": "Beas River", "wiki": "Beas River", "area": "Kullu Valley", "desc": "The river running through the valley, good for scenic walks and river activities."}
+    ],
+    "restaurants": [
+      {"name": "Johnson's Cafe", "area": "Old Manali", "cuisine": "Continental", "known_for": "A cozy cafe known for trout dishes.", "dish_wiki": "Trout"},
+      {"name": "Cafe 1947", "area": "Old Manali", "cuisine": "Cafe", "known_for": "Riverside cafe popular with travellers.", "dish_wiki": "Momo"},
+      {"name": "Chopsticks", "area": "Manali", "cuisine": "Tibetan", "known_for": "Tibetan dishes such as thukpa and momos.", "dish_wiki": "Thukpa"}
+    ]
+  },
+  {
+    "name": "Bali", "country": "Indonesia", "tags": ["Beach", "Nature", "Culture"],
+    "tagline": "Temples, rice terraces, surf and wellness",
+    "description": "Bali combines spiritual culture, green rice terraces, beaches and a strong wellness and cafe scene.",
+    "best_time": "April to October", "budget_level": "Medium", "ideal_days": "5-7", "cover_wiki": "Tanah Lot",
+    "places": [
+      {"name": "Uluwatu Temple", "wiki": "Uluwatu Temple", "area": "Uluwatu", "desc": "A sea temple on a cliff, famous for sunsets and Kecak fire dance."},
+      {"name": "Tanah Lot", "wiki": "Tanah Lot", "area": "Tabanan", "desc": "A temple on a rock formation just off the coast."},
+      {"name": "Sacred Monkey Forest", "wiki": "Sacred Monkey Forest Sanctuary", "area": "Ubud", "desc": "A forest sanctuary with temples and long-tailed macaques."},
+      {"name": "Tegallalang Rice Terrace", "wiki": "Tegallalang", "area": "Near Ubud", "desc": "Layered green rice terraces, best visited in the morning."},
+      {"name": "Mount Batur", "wiki": "Mount Batur", "area": "Kintamani", "desc": "An active volcano popular for sunrise treks."}
+    ],
+    "restaurants": [
+      {"name": "Warung Ibu Oka", "area": "Ubud", "cuisine": "Balinese", "known_for": "Famous for babi guling (Balinese roast pork).", "dish_wiki": "Babi guling"},
+      {"name": "Naughty Nuri's", "area": "Ubud", "cuisine": "Grill", "known_for": "Known for grilled ribs and martinis.", "dish_wiki": "Spare ribs"},
+      {"name": "Bebek Bengil", "area": "Ubud", "cuisine": "Balinese", "known_for": "Known for crispy duck dishes.", "dish_wiki": "Bebek betutu"}
+    ]
+  },
+  {
+    "name": "Paris", "country": "France", "tags": ["City", "Culture", "Food"],
+    "tagline": "Art, cafes and iconic landmarks",
+    "description": "Paris is known for its museums, riverside walks, historic districts and cafe culture.",
+    "best_time": "April to June, September to October", "budget_level": "Luxury", "ideal_days": "4-5", "cover_wiki": "Eiffel Tower",
+    "places": [
+      {"name": "Eiffel Tower", "wiki": "Eiffel Tower", "area": "7th arrondissement", "desc": "The iconic iron tower with viewing platforms over the city."},
+      {"name": "Louvre Museum", "wiki": "Louvre", "area": "1st arrondissement", "desc": "The world's largest art museum, home to the Mona Lisa."},
+      {"name": "Notre-Dame de Paris", "wiki": "Notre-Dame de Paris", "area": "Ile de la Cite", "desc": "The Gothic cathedral on the Seine, restored after the 2019 fire."},
+      {"name": "Sacre-Coeur", "wiki": "Sacré-Cœur, Paris", "area": "Montmartre", "desc": "A white basilica on a hilltop with panoramic views."},
+      {"name": "Musee d'Orsay", "wiki": "Musée d'Orsay", "area": "7th arrondissement", "desc": "Impressionist art inside a former railway station."}
+    ],
+    "restaurants": [
+      {"name": "Cafe de Flore", "area": "Saint-Germain-des-Pres", "cuisine": "French cafe", "known_for": "A historic cafe for coffee and pastries.", "dish_wiki": "Croissant"},
+      {"name": "L'As du Fallafel", "area": "Le Marais", "cuisine": "Middle Eastern", "known_for": "Popular falafel sandwiches.", "dish_wiki": "Falafel"},
+      {"name": "Angelina", "area": "Rue de Rivoli", "cuisine": "Tea room", "known_for": "Famous for rich hot chocolate.", "dish_wiki": "Hot chocolate"}
+    ]
+  },
+  {
+    "name": "Tokyo", "country": "Japan", "tags": ["City", "Culture", "Food"],
+    "tagline": "Ultra-modern city with deep traditions",
+    "description": "Tokyo combines neon districts, quiet shrines, gardens and some of the world's best food.",
+    "best_time": "March to May, October to November", "budget_level": "Luxury", "ideal_days": "5-7", "cover_wiki": "Sensō-ji",
+    "places": [
+      {"name": "Senso-ji Temple", "wiki": "Sensō-ji", "area": "Asakusa", "desc": "Tokyo's oldest temple, with the Kaminarimon gate and Nakamise shopping street."},
+      {"name": "Meiji Shrine", "wiki": "Meiji Shrine", "area": "Shibuya", "desc": "A peaceful Shinto shrine inside a forest in the middle of the city."},
+      {"name": "Shibuya Crossing", "wiki": "Shibuya Crossing", "area": "Shibuya", "desc": "One of the busiest pedestrian crossings in the world."},
+      {"name": "Tokyo Skytree", "wiki": "Tokyo Skytree", "area": "Sumida", "desc": "A very tall broadcasting tower with observation decks."},
+      {"name": "Shinjuku Gyoen", "wiki": "Shinjuku Gyoen", "area": "Shinjuku", "desc": "A large garden, beautiful in cherry blossom and autumn seasons."}
+    ],
+    "restaurants": [
+      {"name": "Ichiran", "area": "Shibuya", "cuisine": "Ramen", "known_for": "Tonkotsu ramen served in individual booths.", "dish_wiki": "Ramen"},
+      {"name": "Sushi Dai", "area": "Toyosu", "cuisine": "Sushi", "known_for": "Popular for fresh sushi, often with long queues.", "dish_wiki": "Sushi"},
+      {"name": "Tsunahachi", "area": "Shinjuku", "cuisine": "Tempura", "known_for": "A well-known tempura restaurant.", "dish_wiki": "Tempura"}
+    ]
+  }
+]
